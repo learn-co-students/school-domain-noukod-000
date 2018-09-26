@@ -27,6 +27,5 @@ class School
       value.sort!
     end
     @roster
-    end
-
+  end
 end
